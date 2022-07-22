@@ -1,7 +1,8 @@
 <h1 style="color: orange">QIWI</h1>
 
 Open Source Contributions: various weird things with the best of intentions.  
-Please note that only ⚠️ **@qiwi**-scoped npm packages are owned by [QIWI](https://qiwi.com). Be careful
+Please note that only ⚠️ **@qiwi**-scoped npm packages are owned by [QIWI](https://qiwi.com). Be careful.  
+Everything here is [MIT licensed](https://github.com/qiwi/license)
 
 ## 🥝
 
